@@ -1,2 +1,2 @@
-# one-tools
+# magic-tools
 Python daily widgets
